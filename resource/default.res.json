@@ -1,0 +1,60 @@
+{
+	"groups": [
+		{
+			"keys": "egret_icon_png,description_json,bg1_jpg,bg0_jpg,bg2_jpg,bg3_jpg,bg4_jpg,bg5_jpg,bg6_jpg,bg7_jpg",
+			"name": "heroes"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/bg1.jpg",
+			"type": "image",
+			"name": "bg1_jpg"
+		},
+		{
+			"url": "assets/bg0.jpg",
+			"type": "image",
+			"name": "bg0_jpg"
+		},
+		{
+			"url": "assets/bg2.jpg",
+			"type": "image",
+			"name": "bg2_jpg"
+		},
+		{
+			"url": "assets/bg3.jpg",
+			"type": "image",
+			"name": "bg3_jpg"
+		},
+		{
+			"url": "assets/bg4.jpg",
+			"type": "image",
+			"name": "bg4_jpg"
+		},
+		{
+			"url": "assets/bg5.jpg",
+			"type": "image",
+			"name": "bg5_jpg"
+		},
+		{
+			"url": "assets/bg6.jpg",
+			"type": "image",
+			"name": "bg6_jpg"
+		},
+		{
+			"url": "assets/bg7.jpg",
+			"type": "image",
+			"name": "bg7_jpg"
+		}
+	]
+}
